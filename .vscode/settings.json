@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
-        "println"
+        "foge",
+        "isize",
+        "println",
+        "rustc",
+        "usize"
     ]
 }
